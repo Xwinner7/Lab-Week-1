@@ -20,7 +20,7 @@ def hello_world():
   3. Photography
   4. Gaming
   5. ~~Sleeping~~ Relaxation
-
+![cute cat](cat.jpg)
 ## Links
 1. This site was to the useful [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) resourse.
 2. Link to the section about me: [About Me as a Person](https://github.com/Xwinner7/Lab-Week-1/blob/new-read-me/index.md#about-me-as-a-person).
