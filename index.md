@@ -3,9 +3,9 @@
 ![my photo](profile.jpg)
 
 ## About Me As a Programmer
-- **Languages that I have encountered:** `Python`,`Java`,`C/C++`
-* **Current and Continous Learning:** Languages || Data Structures & Algorithms || AI & Machine Learning || Web Development || Version Control || Problem-solving || Documentation
-+ **Python Example:**
+- **Languages Learning:** `Python`,`Java`,`C/C++`
+* **Current and Continous Learning Focus:** Languages || Data Structures & Algorithms || AI & Machine Learning || Web Development || Version Control || Problem-Solving
++ **Python Coding Example:**
 ```python
 def hello_world():
     print("Welcome to my GitHub page!")
