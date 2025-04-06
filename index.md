@@ -1,16 +1,17 @@
 # Xiuwen's GitHub Page
 
-```python
-def hello_world():
-    print("Welcome to my GitHub page!")
-```
-
 ![my photo](profile.jpg)
 
 ## About Me As a Programmer
 - **Languages that I have encountered:** `Python`,`Java`,`C/C++`
 * **Current and Continous Learning:** Languages || Data Structures & Algorithms || AI & Machine Learning || Web Development || Version Control || Problem-solving || Documentation
-+ >*If, at first, you do not succeed, call it version 1.0.* - Khayri R. R. Woulfe
++ **Python Example:**
+```python
+def hello_world():
+    print("Welcome to my GitHub page!")
+```
++ A code that I found <ins>inspiring</ins>: *If, at first, you do not succeed, call it version 1.0.* - Khayri R. R. Woulfe
+
 
 ## About Me as a Person
 - Hobbies:
@@ -21,10 +22,11 @@ def hello_world():
   5. ~~Sleeping~~ Relaxation
 
 ## Links
-This site was to the useful [Markdown] resourse(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-Link to the section about me: [About Me as a Person](https://github.com/Xwinner7/Lab-Week-1/blob/new-read-me/index.md#about-me-as-a-person).
-[Parent directory](./README.md). 
+1. This site was to the useful [Markdown] resourse(https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+2. Link to the section about me: [About Me as a Person](https://github.com/Xwinner7/Lab-Week-1/blob/new-read-me/index.md#about-me-as-a-person).
+3. [Parent directory](./README.md). 
 
 ## To Do
 - [x] Complete GitHub profile
 - [ ] Build a portfolio website
+- [ ] Explore GitHub
