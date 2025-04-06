@@ -25,7 +25,7 @@ def hello_world():
 
 ## 🤝 Let's Connect
 I'm on my coding journey and if you are also learning, _let's learn together!_ 
-- 💬 Contact at xiz@ucsd.edu
+- 💬 Contact at xiz189@ucsd.edu
 - **P.S.** Could start on discussion about:
   - Best/worse CS class taken so far
   - Favorite coding snack (mine is chocolate 🍫)
