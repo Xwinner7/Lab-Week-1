@@ -1,2 +1,3 @@
-Xiuwen's User Page
-My favorite programming language is Python.
+- Xiuwen's User Page
+- My favorite programming language is Python.
+- URL of my published [GitHub pages](https://xwinner7.github.io/Lab-Week-1/).
