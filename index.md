@@ -19,7 +19,7 @@ def hello_world():
   2. Exploring food
   3. Photography
   4. Gaming
-  5. ~~Sleeping~~ Relaxation
+  5. ~~Sleeping~~ Relaxation with music
 ![cute cat](cat.jpg)
 ## Links
 1. This site was to the useful [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) resourse.
