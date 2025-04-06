@@ -33,8 +33,8 @@ I'm on my coding journey and if you are also learning, _let's learn together!_
 
 ## 🔗 Useful Links
 1. This site was to the useful [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) resourse that can be use when building user page.
-2. Link to the section of the: [About Me as a Person](https://github.com/Xwinner7/Lab-Week-1/blob/new-read-me/index.md#about-me-as-a-person).
-3. :cat: [Meet a cute buddy](./cat.jpg). 
+2. Link to the section of the: [About Me as a Person]([https://github.com/Xwinner7/Lab-Week-1/blob/new-read-me/index.md#about-me-as-a-person](https://xwinner7.github.io/Lab-Week-1/#%EF%B8%8F-about-me-as-a-person)).
+3. 🐱 [Meet a cute buddy](./cat.jpg). 
 
 ### ✅ Roadmap
 - [x] Complete GitHub profile
