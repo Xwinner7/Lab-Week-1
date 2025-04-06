@@ -4,7 +4,7 @@
 
 ## About Me As a Programmer
 - **Languages Learning:** `Python`,`Java`,`C/C++`
-* **Current and Continous Learning Focus:** Languages || Data Structures & Algorithms || AI & Machine Learning || Web Development || Version Control || Problem-Solving
+* **Current and Continous Learning Focus:** || Languages || Data Structures & Algorithms || AI & Machine Learning || Web Development || Version Control || Problem-Solving
 + **Python Coding Example:**
 ```python
 def hello_world():
