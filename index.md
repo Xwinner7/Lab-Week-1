@@ -1,5 +1,6 @@
 # 👋 Xiuwen's GitHub Page
 - A second year computer science student...
+  ![joker cat](cat2.jpg)
 ## 👩‍💻 About Me As a Programmer
 - ⌨️ **Languages Learning:** `Python`,`Java`,`C/C++`
 * 📚 **Current and Continous Learning Focus:** || Languages || Data Structures & Algorithms || AI & Machine Learning || Web Development || Version Control || Problem-Solving
