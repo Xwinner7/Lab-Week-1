@@ -10,7 +10,7 @@ def hello_world():
     print("Welcome to my GitHub page!")
 ```
 + 💡 A quote that I found <ins>inspiring</ins>:
-  *If, at first, you do not succeed, call it version 1.0.* - Khayri R. R. Woulfe
+  > *If, at first, you do not succeed, call it version 1.0.* - Khayri R. R. Woulfe
 
 
 ## 🙋‍♀️ About Me As a Person
