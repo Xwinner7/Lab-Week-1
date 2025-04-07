@@ -39,4 +39,4 @@ I'm on my coding journey and if you are also learning, _let's learn together!_
 ### ✅ Roadmap
 - [x] Complete GitHub profile
 - [ ] Build a portfolio website
-- [ ] Explore GitHub
+- [x] Explore GitHub
